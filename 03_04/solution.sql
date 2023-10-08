@@ -71,7 +71,7 @@ PIVOT(
     MAX(avg_rating) AS avg_rating,
     MAX(product_count) AS product_count
     FOR LOWER(segment_name) IN (
-        'Dog', 'Cat', 'Other'
+        'dog', 'cat', 'other'
     )
 );
 
