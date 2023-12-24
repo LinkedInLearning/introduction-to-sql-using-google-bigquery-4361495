@@ -1,0 +1,22 @@
+product_id,product_name,category_name,retail_price,wholesale_discount_percentage,rating
+100043,Basic Teeth Cleaning and Exam,Care,100.0,0,
+100039,Microchip Service,Care,15.0,0,
+100050,Advance Pet Oral Care Toothbrush and Toothpaste,Care,9.55,30,4.5
+100013,Calm Cat Anxiety Relief Spray,Care,9.49,20,4.0
+100041,Cat Hairball Remedy Gel,Care,6.0,30,5.0
+100051,Cat Vaccination Package,Vaccine,55.0,10,
+100046,Dog Vaccination Package,Vaccine,65.0,20
+100044,Healthy Coat Cat Supplement,Supplement,6.44,10,4.5
+100030,Healthy Coat Dog Supplement,Supplement,9.56,30,4.0
+100045,Here Kitty Kitty Organic Catnip,Accessories,7.75,20,5.0
+100053,Kidney Support Liquid Dietary Supplement,Supplement,9.12,30,4.0
+100040,Large Hypoallergenic Pet Bowl,Accessories,8.14,10,3.5
+100005,Medicated Dog Shampoo,Care,8.73,20,4.5
+100054,Parasite Treatment Package,Care,75.0,30,
+100059,Probiotic Cat Treats,Supplement,7.89,10,4.5
+100042,Probiotic Dog Treats,Supplement,8.89,10,4.5
+100009,Rabies 1 or 3 year Vaccination,Vaccine,18.0,20,
+100055,Senior Dog Vitamin Chews,Supplement,9.66,30,4.5
+100032,Small Hypoallergenic Pet Bowl,Accessories,6.55,20,4.5
+100021,Strong Joints Cat Supplement,Supplement,5.53,20,5.0
+100047,Strong Joints Dog Supplement,Supplement,5.87,20,5.0
