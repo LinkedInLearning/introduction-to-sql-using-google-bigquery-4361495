@@ -12,7 +12,7 @@
 WITH cte_monthly_sales AS (
 SELECT
   DATE_TRUNC(transaction_date, MONTH) AS month_start,
-  SUM(total_amount) AS monthly_sales]
+  SUM(total_amount) AS monthly_sales
 FROM `wisdom_pets.sales`
 WHERE transaction_date BETWEEN '2022-01-01' AND '2022-12-31'
 GROUP BY month_start
