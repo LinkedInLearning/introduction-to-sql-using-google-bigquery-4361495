@@ -1,6 +1,11 @@
 # Introduction to SQL Using Google BigQuery
 This is the repository for the LinkedIn Learning course `Introduction to SQL Using Google BigQuery`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+
+![lil-thumbnail-url]
+
+As more and more companies adapt to cloud platforms—which are tailor-made for analytics and machine learning—many companies are also moving away from Amazon Web Services and trying alternative cloud vendors. Google Big Query has been gaining steam in the market in recent years, and provides some game-changing technology in the modern data landscape. In this course, instructor Danny Ma shows data professionals how to be productive and effective using GBQ and use the power of the cloud to analyze data at scale. If you have some SQL experience and want to learn what’s available on a modern cloud platform, join Danny in this course to see how BigQuery can help jumpstart your data career.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 
@@ -20,6 +25,6 @@ Each folder corresponds with a movie with an exercise file. The naming conventio
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/introduction-to-sql-using-google-bigquery
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFq8ztBl9reSw/learning-public-crop_675_1200/0/1704843112471?e=2147483647&v=beta&t=U0KpV_pHjJsV9Y4lZNQTOmbItuv31rJQLSiJtKyNBKE
 
